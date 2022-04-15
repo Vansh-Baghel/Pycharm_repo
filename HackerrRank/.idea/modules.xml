@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HackerrRank.iml" filepath="$PROJECT_DIR$/.idea/HackerrRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Module/.idea/Module.iml" filepath="$PROJECT_DIR$/../Module/.idea/Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../functions/.idea/functions.iml" filepath="$PROJECT_DIR$/../functions/.idea/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keyword_variable_arguments/.idea/keyword_variable_arguments.iml" filepath="$PROJECT_DIR$/../keyword_variable_arguments/.idea/keyword_variable_arguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mathematicsRelated/.idea/mathematicsRelated.iml" filepath="$PROJECT_DIR$/../mathematicsRelated/.idea/mathematicsRelated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../object_class/.idea/object_class.iml" filepath="$PROJECT_DIR$/../object_class/.idea/object_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shortcut/.idea/shortcut.iml" filepath="$PROJECT_DIR$/../shortcut/.idea/shortcut.iml" />
+    </modules>
+  </component>
+</project>

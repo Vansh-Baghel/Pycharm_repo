@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="functions" />
+    <orderEntry type="module" module-name="keyword_variable_arguments" />
+    <orderEntry type="module" module-name="mathematicsRelated" />
+    <orderEntry type="module" module-name="Module" />
+    <orderEntry type="module" module-name="object_class" />
+    <orderEntry type="module" module-name="shortcut" />
+  </component>
+</module>
